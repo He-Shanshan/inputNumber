@@ -1,3 +1,3 @@
 通过时候设置value来判断为受控跟非受控组件
-受控组件通过noChange事件更新state状态
+受控组件通过onChange事件更新state状态
 非受控组件通过获取ref的值更新
